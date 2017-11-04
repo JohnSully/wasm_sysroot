@@ -1,0 +1,3 @@
+wasm_close_fd
+wasm_write_fd
+wasm_llseek_fd
